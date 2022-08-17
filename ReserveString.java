@@ -3,7 +3,7 @@ package recursive;
 public class ReserveString {
 
 	public static void main(String[] args) {
-		String str = "CELIL";
+		String str = "CENGIZ ERDEM";
 
 		// reverse(str);
 
